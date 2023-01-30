@@ -41,6 +41,9 @@ to be served. The multi-objective function is evaluated iteratively by increasin
 ## Example of post-processed beams heatmap (winner deployment) :
 ![eps2_winner](https://user-images.githubusercontent.com/123570619/215517945-3fea319e-3cf8-4f26-ab3d-f2ad2efed1bf.png)
 
+# How to download from GitHub and run OptiBeam
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLoKriYhWu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Developer :
