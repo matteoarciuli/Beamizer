@@ -22,9 +22,7 @@ to be served. The multi-objective function is evaluated iteratively by increasin
 
 ## Screenshots:
 <img src="https://user-images.githubusercontent.com/123570619/215516029-f54b5081-391e-47c1-a64f-732772df1b4a.png" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/123570619/215516029-f54b5081-391e-47c1-a64f-732772df1b4a.png" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/123570619/215516062-b621bbda-137c-4afb-beed-8086b3d5c084.png" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/123570619/215516090-dcb2a696-a59f-4f55-ac7d-1934b2d151ec.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/123570619/215516062-b621bbda-137c-4afb-beed-8086b3d5c084.png" width="500" height="300"> <img src="https://user-images.githubusercontent.com/123570619/215516090-dcb2a696-a59f-4f55-ac7d-1934b2d151ec.png" width="500" height="300">
 <img src="https://user-images.githubusercontent.com/123570619/215516099-6f2d68c4-3c57-49b4-8721-1cd23bab68e3.png" width="500" height="300">
 
 
