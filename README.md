@@ -19,7 +19,7 @@
 ![block_diagram_optibeam_2 (1)](https://user-images.githubusercontent.com/123570619/215499084-4fb3c086-3062-4dfb-81a0-189faf890b84.png)
 
 ## Developer :
-- Matteo Arciuli <[Reach me on LinkedIn](https://www.linkedin.com/in/matteo-arciuli-0733b4136/).>
+- Matteo Arciuli -> [Reach me on LinkedIn](https://www.linkedin.com/in/matteo-arciuli-0733b4136/).
 
 ## Other Contributors :
 Huge thanks to the collegues of the 5GPENCIL Team:
