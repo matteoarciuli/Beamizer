@@ -14,6 +14,7 @@
     * MATLAB Support for MinGW-w64 C/C++ Compiler"    
     * Computer Vision Toolbox"                          
     * Mapping Toolbox"       
+- RAM: minimum 4 GBs
 
 ## Flowchart :
 ![block_diagram_optibeam_2 (1)](https://user-images.githubusercontent.com/123570619/215499084-4fb3c086-3062-4dfb-81a0-189faf890b84.png)
