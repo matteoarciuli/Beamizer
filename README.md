@@ -31,6 +31,11 @@ Huge thanks to the collegues of the 5GPENCIL Team:
 For the support functions :
 - Sisi Ma (2023). find_pareto_frontier (https://www.mathworks.com/matlabcentral/fileexchange/45885-find_pareto_frontier), MATLAB Central File Exchange. Retrieved January 30, 2023. 
 - Amy Farris (2023). read_kml (https://www.mathworks.com/matlabcentral/fileexchange/13026-read_kml), MATLAB Central File Exchange. Retrieved January 30, 2023. 
+
+For the GUI icons designers :
+-[Unicons Font](https://iconscout.com/contributors/unicons). 
+-[Rank Sol](https://iconscout.com/contributors/promotion-king). 
+
 ## Acknowledgment :
 Special thanks to professor Luca chiaraviglio.
 - Luca Chiaraviglio <luca.chiaraviglio@uniroma2.it>
