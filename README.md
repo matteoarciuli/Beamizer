@@ -20,8 +20,7 @@
 
 ## Developer :
 - Matteo Arciuli 
-- [Reach me on Linkedin]([https://duckduckgo.com](https://www.linkedin.com/in/matteo-arciuli-0733b4136/)).
-- 
+- [Reach me on LinkedIn](https://www.linkedin.com/in/matteo-arciuli-0733b4136/).
 
 ## Other Contributors :
 Huge thanks to the collegues of the 5GPENCIL Team:
