@@ -18,6 +18,13 @@ to be served. The multi-objective function is evaluated iteratively by increasin
     * Mapping Toolbox       
 - RAM: minimum 4 GBs
 
+## Screenshots:
+![parametri_input](https://user-images.githubusercontent.com/123570619/215516029-f54b5081-391e-47c1-a64f-732772df1b4a.png)
+![test_mode](https://user-images.githubusercontent.com/123570619/215516062-b621bbda-137c-4afb-beed-8086b3d5c084.png)
+![plots](https://user-images.githubusercontent.com/123570619/215516090-dcb2a696-a59f-4f55-ac7d-1934b2d151ec.png)
+![dashboard](https://user-images.githubusercontent.com/123570619/215516099-6f2d68c4-3c57-49b4-8721-1cd23bab68e3.png)
+
+
 ## Flowchart :
 ![block_diagram_optibeam_2 (1)](https://user-images.githubusercontent.com/123570619/215499084-4fb3c086-3062-4dfb-81a0-189faf890b84.png)
 
