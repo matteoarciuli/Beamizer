@@ -38,13 +38,32 @@ to be served. The multi-objective function is evaluated iteratively by increasin
 ## Flowchart :
 ![block_diagram_optibeam_2 (1)](https://user-images.githubusercontent.com/123570619/215499084-4fb3c086-3062-4dfb-81a0-189faf890b84.png)
 
-## Example of post-processed beams heatmap (winner deployment) :
-![eps2_winner](https://user-images.githubusercontent.com/123570619/215517945-3fea319e-3cf8-4f26-ab3d-f2ad2efed1bf.png)
 
-# How to download from GitHub and run OptiBeam
+# Download from GitHub and first run
 
 
 https://user-images.githubusercontent.com/123570619/215557749-168c316c-53ba-4b2d-8d60-1daa3b55d3b7.mp4
+
+# Add a .kml file and run 
+
+
+https://user-images.githubusercontent.com/123570619/215558313-5f1b29e3-3132-4bfb-b8d4-c9de461010d1.mp4
+
+# Import an old test and replot 
+
+
+https://user-images.githubusercontent.com/123570619/215558397-b8282743-11a3-4d05-ae01-21bdedd04d46.mp4
+
+# Post-processing a winner solution 
+
+Part 1:
+
+https://user-images.githubusercontent.com/123570619/215560472-dcbf1729-dddc-4e01-99f7-3b36fdd84050.mp4
+
+Part 2:
+
+
+https://user-images.githubusercontent.com/123570619/215560855-b3ba866d-4488-4560-a9e1-09a518e9102e.mp4
 
 
 
