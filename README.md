@@ -1,7 +1,6 @@
 # OptiBeam:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OptiBeam</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/matteoarciuli/OptiBeam" property="cc:attributionName" rel="cc:attributionURL"> Matteo Arciuli</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.
 ![original](https://user-images.githubusercontent.com/123570619/215446237-7766246c-6f76-4af5-ad99-504d51ebd536.png)
-<img src="https://user-images.githubusercontent.com/123570619/215446237-7766246c-6f76-4af5-ad99-504d51ebd536.png" width="500" height="300">
 
 # Introduction:
 OptiBeam is an innovative planning tool able to select the optimal deployment of B5G base stations balancing capital expenditures, EMF levels and user throughput. The information on the users position provided by the 5G architecture plays a central role in our tool, which allows us to optimize the synthesis of the beams on the territory for all the simulated antennas  Intuitively, the user localization precision allows tuning steer and tilt angles for each beam towards the served users. Our planning tool takes as input the candidate positions for the installationof B5G base stations, together with the localization accuracy levels for the users that need
@@ -23,12 +22,12 @@ to be served. The multi-objective function is evaluated iteratively by increasin
 ## Screenshots:
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/123570619/215516029-f54b5081-391e-47c1-a64f-732772df1b4a.png" width="600" height="337,50"></td>
-    <td><img src="https://user-images.githubusercontent.com/123570619/215516062-b621bbda-137c-4afb-beed-8086b3d5c084.png" width="600" height="337,50"></td>
+    <td><img src="https://user-images.githubusercontent.com/123570619/215516029-f54b5081-391e-47c1-a64f-732772df1b4a.png" width="600" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/123570619/215516062-b621bbda-137c-4afb-beed-8086b3d5c084.png" width="600" height="300"></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/123570619/215516090-dcb2a696-a59f-4f55-ac7d-1934b2d151ec.png" width="600" height="337,50"></td>
-    <td><img src="https://user-images.githubusercontent.com/123570619/215516099-6f2d68c4-3c57-49b4-8721-1cd23bab68e3.png" width="600" height="337,50"></td>
+    <td><img src="https://user-images.githubusercontent.com/123570619/215516090-dcb2a696-a59f-4f55-ac7d-1934b2d151ec.png" width="600" height="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/123570619/215516099-6f2d68c4-3c57-49b4-8721-1cd23bab68e3.png" width="600" height="300"></td>
   </tr>
 </table>
 
