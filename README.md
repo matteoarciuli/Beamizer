@@ -43,7 +43,10 @@ to be served. The multi-objective function is evaluated iteratively by increasin
 
 # How to download from GitHub and run OptiBeam
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PLoKriYhWu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/123570619/215557749-168c316c-53ba-4b2d-8d60-1daa3b55d3b7.mp4
+
+
 
 
 ## Developer :
