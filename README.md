@@ -28,6 +28,10 @@ to be served. The multi-objective function is evaluated iteratively by increasin
 ## Flowchart :
 ![block_diagram_optibeam_2 (1)](https://user-images.githubusercontent.com/123570619/215499084-4fb3c086-3062-4dfb-81a0-189faf890b84.png)
 
+## Example of post-processed beams heatmap (winner deployment) :
+![Immagine 2023-01-27 113455](https://user-images.githubusercontent.com/123570619/215517503-0a91b0c4-73c3-40bd-9d02-dde35f45ec92.png)
+
+
 ## Developer :
 - Matteo Arciuli -> [Reach me on LinkedIn](https://www.linkedin.com/in/matteo-arciuli-0733b4136/).
 
