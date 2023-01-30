@@ -19,13 +19,13 @@
 ![block_diagram_optibeam_2 (1)](https://user-images.githubusercontent.com/123570619/215499084-4fb3c086-3062-4dfb-81a0-189faf890b84.png)
 
 ## Developer :
-- Matteo Arciuli 
-- [Reach me on LinkedIn](https://www.linkedin.com/in/matteo-arciuli-0733b4136/).
+- Matteo Arciuli <[Reach me on LinkedIn](https://www.linkedin.com/in/matteo-arciuli-0733b4136/).>
 
 ## Other Contributors :
 Huge thanks to the collegues of the 5GPENCIL Team:
 - Simone Rossetti <simone.rossetti@cnit.it>
 - Sara Saida <sara.saida@cnit.it>
+
 For the support functions :
 - Sisi Ma (2023). find_pareto_frontier (https://www.mathworks.com/matlabcentral/fileexchange/45885-find_pareto_frontier), MATLAB Central File Exchange. Retrieved January 30, 2023. 
 - Amy Farris (2023). read_kml (https://www.mathworks.com/matlabcentral/fileexchange/13026-read_kml), MATLAB Central File Exchange. Retrieved January 30, 2023. 
