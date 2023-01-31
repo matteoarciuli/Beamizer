@@ -85,6 +85,6 @@ For the GUI icons designers :
 -[Rank Sol](https://iconscout.com/contributors/promotion-king). 
 
 ## Acknowledgment :
-Special thanks to professor Luca chiaraviglio.
+Special thanks to Professor Luca Chiaraviglio.
 - Luca Chiaraviglio <luca.chiaraviglio@uniroma2.it>
 
