@@ -1,9 +1,9 @@
 # OptiBeam6G:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OptiBeam6G</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/matteoarciuli/OptiBeam" property="cc:attributionName" rel="cc:attributionURL"> Matteo Arciuli</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.
 
-
+<p align="center">
 ![Immagine 2023-02-01 165049](https://user-images.githubusercontent.com/123570619/216093638-e14fdc3f-3bf1-425b-866a-68816d06c554.png)
-
+</p>
 
 # Introduction:
 OptiBeam is an innovative planning tool able to select the optimal deployment of B5G base stations balancing capital expenditures, EMF levels and user throughput. The information on the users position provided by the 5G architecture plays a central role in our tool, which allows us to optimize the synthesis of the beams on the territory for all the simulated antennas  Intuitively, the user localization precision allows tuning steer and tilt angles for each beam towards the served users. Our planning tool takes as input the candidate positions for the installationof B5G base stations, together with the localization accuracy levels for the users that need
