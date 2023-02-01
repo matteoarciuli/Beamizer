@@ -1,5 +1,5 @@
-# OptiBeam6G:
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">OptiBeam6G</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/matteoarciuli/OptiBeam" property="cc:attributionName" rel="cc:attributionURL"> Matteo Arciuli</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.
+# Beamizer:
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beamizer</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/matteoarciuli/OptiBeam" property="cc:attributionName" rel="cc:attributionURL"> Matteo Arciuli</a> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/123570619/216093638-e14fdc3f-3bf1-425b-866a-68816d06c554.png">
